@@ -1,0 +1,9 @@
+C:\Users\JADPA_21\source\repos\ActivoFijo\ActivoFijo\bin\Debug\ActivoFijo.exe.config
+C:\Users\JADPA_21\source\repos\ActivoFijo\ActivoFijo\bin\Debug\ActivoFijo.exe
+C:\Users\JADPA_21\source\repos\ActivoFijo\ActivoFijo\bin\Debug\ActivoFijo.pdb
+C:\Users\JADPA_21\source\repos\ActivoFijo\ActivoFijo\obj\Debug\ActivoFijo.csprojAssemblyReference.cache
+C:\Users\JADPA_21\source\repos\ActivoFijo\ActivoFijo\obj\Debug\ActivoFijo.Properties.Resources.resources
+C:\Users\JADPA_21\source\repos\ActivoFijo\ActivoFijo\obj\Debug\ActivoFijo.csproj.GenerateResource.cache
+C:\Users\JADPA_21\source\repos\ActivoFijo\ActivoFijo\obj\Debug\ActivoFijo.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_21\source\repos\ActivoFijo\ActivoFijo\obj\Debug\ActivoFijo.exe
+C:\Users\JADPA_21\source\repos\ActivoFijo\ActivoFijo\obj\Debug\ActivoFijo.pdb
